@@ -1,0 +1,23 @@
+{"Cars":[
+	{ "ID":"001","Brand":"Tesla", "Model":"S", "Horsepower":"503", "Mileage":"402MPC", "Year":"2020" },
+	{ "ID":"004","Brand":"Lexus", "Model":"ES", "Horsepower":"312", "Mileage":"20MPG", "Year":"2018" },
+	{ "ID":"002","Brand":"Porsche", "Model":"Cayenne", "Horsepower":"378", "Mileage":"19MPG", "Year":"2019" },
+	{ "ID":"007","Brand":"Land Rover", "Model":"Discovery", "Horsepower":"246", "Mileage":"23MPG", "Year":"2020" },
+	{ "ID":"001","Brand":"Tesla", "Model":"X", "Horsepower":"259", "Mileage":"263MPC", "Year":"2018" },
+	{ "ID":"006","Brand":"Cadillac", "Model":"Escalade", "Horsepower":"280", "Mileage":"21MPG", "Year":"2019" },
+	{ "ID":"005","Brand":"BMW", "Model":"X5", "Horsepower":"255", "Mileage":"23MPG", "Year":"2016" },
+	{ "ID":"007","Brand":"Land Rover", "Model":"Defender", "Horsepower":"300", "Mileage":"24MPG", "Year":"2019" },
+	{ "ID":"003","Brand":"Mercedes-Benz", "Model":"GLE", "Horsepower":"420", "Mileage":"26MPG", "Year":"2018" },
+	{ "ID":"005","Brand":"BMW", "Model":"X3", "Horsepower":"345", "Mileage":"22MPG", "Year":"2017" },
+	{ "ID":"002","Brand":"Porsche", "Model":"911", "Horsepower":"678", "Mileage":"16MPG", "Year":"2019" },
+	{ "ID":"001","Brand":"Tesla", "Model":"3", "Horsepower":"346", "Mileage":"263MPC", "Year":"2019" },
+	{ "ID":"006","Brand":"Cadillac", "Model":"XT4", "Horsepower":"235", "Mileage":"24MPG", "Year":"2020" },
+	{ "ID":"006","Brand":"Cadillac", "Model":"XT6", "Horsepower":"310", "Mileage":"21MPG", "Year":"2020" },
+	{ "ID":"003","Brand":"Mercedes-Benz", "Model":"SLC", "Horsepower":"385", "Mileage":"19MPG", "Year":"2018" },
+	{ "ID":"003","Brand":"Mercedes-Benz", "Model":"E-Class", "Horsepower":"260", "Mileage":"21MPG", "Year":"2019" },
+	{ "ID":"005","Brand":"BMW", "Model":"Series-7", "Horsepower":"328", "Mileage":"20MPG", "Year":"2017" },
+	{ "ID":"004","Brand":"Lexus", "Model":"IS", "Horsepower":"380", "Mileage":"22MPG", "Year":"2019" },
+	{ "ID":"007","Brand":"Land Rover", "Model":"Range Rover", "Horsepower":"247", "Mileage":"21MPG", "Year":"2019" },
+	{ "ID":"004","Brand":"Lexus", "Model":"LC", "Horsepower":"357", "Mileage":"26MPG", "Year":"2018" },
+	{ "ID":"002","Brand":"Porsche", "Model":"Panamera", "Horsepower":"410", "Mileage":"23MPG", "Year":"2018" }
+]}
